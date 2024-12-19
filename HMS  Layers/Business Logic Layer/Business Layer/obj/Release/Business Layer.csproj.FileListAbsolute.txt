@@ -1,0 +1,9 @@
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\Business Logic Layer\Business Layer\bin\Release\Business Layer.dll
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\Business Logic Layer\Business Layer\bin\Release\Business Layer.pdb
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\Business Logic Layer\Business Layer\bin\Release\ClassLibrary1.dll
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\Business Logic Layer\Business Layer\bin\Release\ClassLibrary1.pdb
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\Business Logic Layer\Business Layer\obj\Release\Business Layer.csproj.AssemblyReference.cache
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\Business Logic Layer\Business Layer\obj\Release\Business Layer.csproj.CoreCompileInputs.cache
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\Business Logic Layer\Business Layer\obj\Release\Business.38778CEF.Up2Date
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\Business Logic Layer\Business Layer\obj\Release\Business Layer.dll
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\Business Logic Layer\Business Layer\obj\Release\Business Layer.pdb

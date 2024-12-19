@@ -1,0 +1,44 @@
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\bin\Release\HMS Presontation Layer.exe.config
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\bin\Release\HMS Presontation Layer.exe
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\bin\Release\HMS Presontation Layer.pdb
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\bin\Release\Business Layer.dll
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\bin\Release\ClassLibrary1.dll
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\bin\Release\Business Layer.pdb
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\bin\Release\ClassLibrary1.pdb
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\obj\Release\HMS Presontation Layer.csproj.AssemblyReference.cache
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\obj\Release\HMS_Presontation_Layer.Booking.CtrBooking.resources
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\obj\Release\HMS_Presontation_Layer.Booking.FrmBookingARoom.resources
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\obj\Release\HMS_Presontation_Layer.CurrentUser.CtrlChangePassword.resources
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\obj\Release\HMS_Presontation_Layer.CurrentUser.CtrlUserInformation.resources
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\obj\Release\HMS_Presontation_Layer.CurrentUser.frmChangePassword.resources
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\obj\Release\HMS_Presontation_Layer.CurrentUser.frmShowCurrentUserInformation.resources
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\obj\Release\HMS_Presontation_Layer.CurrentUser.frmUpdateCurrentUser.resources
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\obj\Release\HMS_Presontation_Layer.FormTest.resources
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\obj\Release\HMS_Presontation_Layer.frmMain.resources
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\obj\Release\HMS_Presontation_Layer.General_UserControls.CtrShowPersonInformation.resources
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\obj\Release\HMS_Presontation_Layer.Guests.CtrAddAndUpdateNewGuest.resources
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\obj\Release\HMS_Presontation_Layer.Guests.CtrGuestsInHotel.resources
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\obj\Release\HMS_Presontation_Layer.Guests.frmAddAndUpdateGuest.resources
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\obj\Release\HMS_Presontation_Layer.Guests.frmallGuestsInHotel.resources
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\obj\Release\HMS_Presontation_Layer.Guests.frmGuestsManagement.resources
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\obj\Release\HMS_Presontation_Layer.Guests.frmReservationGuests.resources
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\obj\Release\HMS_Presontation_Layer.Guests.frmReserveARoom.resources
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\obj\Release\HMS_Presontation_Layer.Guests.frmShowGuestInformatiom.resources
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\obj\Release\HMS_Presontation_Layer.Login.frmLogin.resources
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\obj\Release\HMS_Presontation_Layer.Payments.CtrlAddUpdatePayment.resources
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\obj\Release\HMS_Presontation_Layer.Payments.FormAllGuestsNotPay.resources
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\obj\Release\HMS_Presontation_Layer.Payments.frmMagementPayment.resources
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\obj\Release\HMS_Presontation_Layer.Payments.frmPayment.resources
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\obj\Release\HMS_Presontation_Layer.Properties.Resources.resources
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\obj\Release\HMS_Presontation_Layer.Rooms.CtrAddAndUpdateRoom.resources
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\obj\Release\HMS_Presontation_Layer.Rooms.frmAddNewRoom.resources
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\obj\Release\HMS_Presontation_Layer.Rooms.frmManagementRooms.resources
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\obj\Release\HMS_Presontation_Layer.Users.CtrAddUpdateEmployee.resources
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\obj\Release\HMS_Presontation_Layer.Users.CtrlAddUpdateUser.resources
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\obj\Release\HMS_Presontation_Layer.Users.frmAddUpdateEmployee.resources
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\obj\Release\HMS_Presontation_Layer.Users.FrmUsersManegement.resources
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\obj\Release\HMS Presontation Layer.csproj.GenerateResource.cache
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\obj\Release\HMS Presontation Layer.csproj.CoreCompileInputs.cache
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\obj\Release\HMS Pres.F8AD146C.Up2Date
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\obj\Release\HMS Presontation Layer.exe
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\HMS Presontation Layer\obj\Release\HMS Presontation Layer.pdb

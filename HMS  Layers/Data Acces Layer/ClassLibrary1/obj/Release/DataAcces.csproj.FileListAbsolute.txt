@@ -1,0 +1,6 @@
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\Data Acces Layer\ClassLibrary1\bin\Release\ClassLibrary1.dll
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\Data Acces Layer\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\Data Acces Layer\ClassLibrary1\obj\Release\DataAcces.csproj.AssemblyReference.cache
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\Data Acces Layer\ClassLibrary1\obj\Release\DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\Data Acces Layer\ClassLibrary1\obj\Release\ClassLibrary1.dll
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\Data Acces Layer\ClassLibrary1\obj\Release\ClassLibrary1.pdb

@@ -1,0 +1,15 @@
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS Presontation Layer\Business Logic Layer\Business Layer\obj\Debug\Business Layer.csproj.AssemblyReference.cache
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS Presontation Layer\Business Logic Layer\Business Layer\obj\Debug\Business Layer.csproj.CoreCompileInputs.cache
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS Presontation Layer\Business Logic Layer\Business Layer\bin\Debug\Business Layer.dll
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS Presontation Layer\Business Logic Layer\Business Layer\bin\Debug\Business Layer.pdb
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS Presontation Layer\Business Logic Layer\Business Layer\obj\Debug\Business Layer.dll
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS Presontation Layer\Business Logic Layer\Business Layer\obj\Debug\Business Layer.pdb
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\Business Logic Layer\Business Layer\bin\Debug\Business Layer.dll
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\Business Logic Layer\Business Layer\bin\Debug\Business Layer.pdb
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\Business Logic Layer\Business Layer\bin\Debug\ClassLibrary1.dll
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\Business Logic Layer\Business Layer\bin\Debug\ClassLibrary1.pdb
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\Business Logic Layer\Business Layer\obj\Debug\Business Layer.csproj.AssemblyReference.cache
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\Business Logic Layer\Business Layer\obj\Debug\Business Layer.csproj.CoreCompileInputs.cache
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\Business Logic Layer\Business Layer\obj\Debug\Business.38778CEF.Up2Date
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\Business Logic Layer\Business Layer\obj\Debug\Business Layer.dll
+C:\Users\Abdel\OneDrive\Desktop\Programming\myProjects\Hotel Management System\HMS  Layers\Business Logic Layer\Business Layer\obj\Debug\Business Layer.pdb
